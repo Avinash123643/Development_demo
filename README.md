@@ -1,2 +1,3 @@
 # Development_demo
-This is my first development project
+This is first project in development
+Author - Avinash kumar
